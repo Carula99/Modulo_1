@@ -11,3 +11,11 @@
 **Ejercicio 5: Creación de un CV en un archivo LaTex.**
 
 **Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
+---
+
+
+
+<https://github.com/AnaAlarcon002/-modulo1>
+<https://github.com/FranciscoV214/Modulo_1>
+<https://github.com/Carula99/Modulo_1.git>
+
